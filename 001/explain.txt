@@ -1,0 +1,31 @@
+Farm or Die is a new Crypto Farm being released at the beginning of November with a Daily Burn of 15% which means once per day 15% of the token supply will be sent to a burn address
+
+
+Hello
+hello
+How about your leg?
+very bad
+sorry to hear that.
+Hi, Ben
+4am here
+truffle+ropsten environment has error.
+So I am searching the right way.
+
+dont use ropsten
+Then?
+kovan
+this?
+This is sol for pair
+for farm
+yes
+move to kovan?
+Will I use kovan?
+yes make kovan test token
+
+OK
+https://faucet.kovan.network/
+I will get kovan ether again.
+24 hours is over.
+
+
+You'll either have to set up your own geth node that is connected to the Ropsten network or a combination of truffle-hdwallet-provider and infura to deploy your contracts to Ropsten.
